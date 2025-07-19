@@ -41,10 +41,10 @@ The analysis includes:
 ## 📈 Visual Highlights
 
 ### **Top 5 Products by Sales**
-![Top Products](Images/Top5_Products_Chart.png)
+![Top Products](Images/Top5_Products_Chart.PNG)
 
 ### **Monthly Sales Trend**
-![Monthly Trend](Images/Monthly_Trend_Chart.png)
+![Monthly Trend](Images/Monthly_Trend_Chart.PNG)
 
 ---
 
