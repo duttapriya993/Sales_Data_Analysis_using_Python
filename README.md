@@ -1,4 +1,4 @@
-# ![Banner](images/Sales_Data_Analysis_Banner.png)
+# ![Banner](Images/Sales_Data_Analysis_Banner.png)
 
 # Sales Data Analysis using Python
 
