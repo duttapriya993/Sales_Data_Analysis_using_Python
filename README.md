@@ -1,5 +1,7 @@
 # ![Banner](Images/Sales_Data_Analysis_Banner.png)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)
+
 # Sales Data Analysis using Python
 
 An end-to-end data analysis project focused on exploring and visualizing retail sales data to uncover business insights such as top-performing products, regional performance, monthly trends, and profitability.
@@ -95,4 +97,10 @@ The analysis includes:
 ---
 
 ## ⚠️ License
-This project is proprietary and protected by copyright law. Unauthorized copying, distribution, or reuse is strictly prohibited.
+This project is released under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more details.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)
+
+---
+
