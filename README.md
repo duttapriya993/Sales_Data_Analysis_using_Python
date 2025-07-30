@@ -96,6 +96,12 @@ The analysis includes:
 
 ---
 
+🤖 AI Tool Used
+
+Used ChatGPT for guidance in structuring the analysis. Final code and outputs were implemented independently.
+
+---
+
 ## ⚠️ License
 This project is released under the **MIT License**.  
 See the [LICENSE](LICENSE) file for more details.
